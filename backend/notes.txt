@@ -1,0 +1,11 @@
+Marshmallow: Visualize data in json
+SQLAlchemy: database support
+flask --app app.py --debug run: run app in debug mode (which auto update the server according to code change.)
+
+
+// React:
+component: a piece of UI, create by create a function which return a JSX (always have to wrap inside a shared parent)
+export default: specify main component in the file
+
+// MySQL:
+mysql -u root -p: enter mysql with user root
